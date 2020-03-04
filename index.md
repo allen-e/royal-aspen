@@ -6,12 +6,12 @@ banner:
     Высокое качество при разумной цене
     и неизменном внимании к заказчику
   actions:
-    - label: Activate
+    - label: Наше портфолио
       url: /generic
       is_scrolly: false
       is_primary: true
   bottom_link:
-    label: Learn More
+    label: Узнать больше
     url: '#one'
     has_arrow: true
     is_scrolly: true
