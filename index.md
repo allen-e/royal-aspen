@@ -39,26 +39,22 @@ sections:
     section_id: two
     background_style: style2
     spotlights:
-      - title: |-
-          Magna primis lobortis
-          sed ullamcorper
+      - title: От модели к макету
         text: >-
-          Aliquam ut ex ut augue consectetur interdum. Donec hendrerit
-          imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.
+          Сначала мы изготавливаем для вас 3D-модель макета в AutoCAD, а затем,
+          используя 3D-принтер и другие современные технологии, мы воплощаем
+          необходимый вам макет военной техники, архитектуры, кораблей или
+          чего-либо другого в жизнь
         home_img_path: images/pic01.jpg
-      - title: |-
-          Tortor dolore feugiat
-          elementum magna
-        text: >-
-          Aliquam ut ex ut augue consectetur interdum. Donec hendrerit
-          imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.
+      - title: Работаем по договору
+        text: Вся разработка ведется в строгом соответствии с заключенным договором!
         home_img_path: images/pic02.jpg
-      - title: |-
-          Augue eleifend aliquet
-          sed condimentum
+      - title: Гарантия высокого качества работы
         text: >-
-          Aliquam ut ex ut augue consectetur interdum. Donec hendrerit
-          imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.
+          Каждому клиенту мы присылаем три варианта создания макета в разном
+          масштабе и стоимости. Потом обсуждаем подходящий вариант и заключаем
+          договор. Если вам нужно заказать макет срочно - звоните нам в любое
+          время, мы постараемся помочь и проконсультировать вас.
         home_img_path: images/pic03.jpg
     component: spotlights.html
   - type: features
