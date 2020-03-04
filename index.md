@@ -45,17 +45,17 @@ sections:
           используя 3D-принтер и другие современные технологии, мы воплощаем
           необходимый вам макет военной техники, архитектуры, кораблей или
           чего-либо другого в жизнь
-        home_img_path: images/pic01.jpg
+        home_img_path: /images/image_1.jpg
       - title: Работаем по договору
         text: Вся разработка ведется в строгом соответствии с заключенным договором!
-        home_img_path: images/pic02.jpg
+        home_img_path: /images/maxresdefault.jpg
       - title: Гарантия высокого качества работы
         text: >-
           Каждому клиенту мы присылаем три варианта создания макета в разном
           масштабе и стоимости. Потом обсуждаем подходящий вариант и заключаем
           договор. Если вам нужно заказать макет срочно - звоните нам в любое
           время, мы постараемся помочь и проконсультировать вас.
-        home_img_path: images/pic03.jpg
+        home_img_path: /images/night-overview_1887166i.jpg
     component: spotlights.html
   - type: features
     title: Accumsan mus tortor nunc aliquet
