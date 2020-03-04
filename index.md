@@ -57,52 +57,9 @@ sections:
           время, мы постараемся помочь и проконсультировать вас.
         home_img_path: /images/night-overview_1887166i.jpg
     component: spotlights.html
-  - type: features
-    title: Accumsan mus tortor nunc aliquet
-    subtitle: >-
-      Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet
-      eleifend  
-
-      fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.
-    section_id: three
-    background_style: style3
-    features:
-      - title: Arcu accumsan
-        text: >-
-          Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
-          tincidunt nullam amet leo Aenean ligula consequat consequat.
-        icon: fa-paper-plane-o
-      - title: Ac Augue Eget
-        text: >-
-          Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
-          tincidunt nullam amet leo Aenean ligula consequat consequat.
-        icon: fa-laptop
-      - title: Mus Scelerisque
-        text: >-
-          Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
-          tincidunt nullam amet leo Aenean ligula consequat consequat.
-        icon: fa-code
-      - title: Mauris Imperdiet
-        text: >-
-          Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
-          tincidunt nullam amet leo Aenean ligula consequat consequat.
-        icon: fa-headphones
-      - title: Aenean Primis
-        text: >-
-          Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
-          tincidunt nullam amet leo Aenean ligula consequat consequat.
-        icon: fa-heart-o
-      - title: Tortor Ut
-        text: >-
-          Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
-          tincidunt nullam amet leo Aenean ligula consequat consequat.
-        icon: fa-flag-o
-    component: features.html
   - type: cta
-    title: Arcue ut vel commodo
-    text: >-
-      Aliquam ut ex ut augue consectetur interdum endrerit imperdiet amet
-      eleifend fringilla.
+    title: Напишите нам прямо сейчас!
+    text: 'Также, мы можем изготовить макет в сжатые сроки!'
     section_id: cta
     background_style: style4
     actions:
@@ -117,7 +74,7 @@ sections:
     component: cta.html
 menus:
   main:
-    title: Home
+    title: Главная
     weight: 1
 layout: home
 ---
