@@ -1,31 +1,26 @@
 ---
-title: Главная
+title: Home
 banner:
-  title: Разработка и изготовление макетов
+  title: Разработка и изготовление мактетов
   subtitle: |-
     Высокое качество при разумной цене
     и неизменном внимании к заказчику
   actions:
-    - label: Заказать макет
+    - label: Activate
       url: /generic
       is_scrolly: false
       is_primary: true
   bottom_link:
-    label: Узнать больше
+    label: Learn More
     url: '#one'
     has_arrow: true
     is_scrolly: true
 sections:
   - type: icons
-    title: |-
-      Arcu aliquet vel lobortis ata nisl
-      eget augue amet aliquet nisl cep donec
-    subtitle: >-
-      Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet
-      eleifend  
-
-      fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus
-      ullamcorper.  
+    title: Профессиональные архитектурные макеты любой сложности за 10 дней
+    subtitle: |-
+      Мы делаем "живые" макеты, где ездят машинки и поезда.
+      Бесплатная доставка со страховкой в любую точку России.
     section_id: one
     background_style: style1
     feature_icons:
