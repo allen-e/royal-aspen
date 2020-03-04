@@ -1,11 +1,10 @@
 ---
 title: Home
 banner:
-  title: Spectral
+  title: Разработка и изготовление мактево
   subtitle: |-
-    Blandit duis accumsan  
-    arcu sagittis viverra  
-    blandit at Interdum.
+    Высокое качество при разумной цене
+    и неизменном внимании к заказчику
   actions:
     - label: Activate
       url: /generic
