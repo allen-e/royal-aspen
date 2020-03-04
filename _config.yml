@@ -1,7 +1,16 @@
-title: Spectral
-baseurl: /
 permalink: '/:title/'
 landing_template: home
+sass:
+  indentWidth: 4
+  style: nested
+  precision: 10
+plugins:
+  - jekyll-menus
+collections:
+  posts:
+    permalink: '/posts/:title/'
+title: Изготовление макетов и моделей
+baseurl: /
 palette: blue
 palettes:
   blue:
@@ -20,12 +29,6 @@ palettes:
       accent4: '#76ddff'
       accent5: '#505393'
       accent6: '#ed4933'
-sass:
-  indentWidth: 4
-  style: nested
-  precision: 10
-plugins:
-  - jekyll-menus
 exclude:
   - Gemfile
   - Gemfile.lock
@@ -40,6 +43,3 @@ exclude:
   - netlify.toml
   - stackbit-build.sh
   - stackbit-pull.js
-collections:
-  posts:
-    permalink: '/posts/:title/'
