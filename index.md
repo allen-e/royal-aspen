@@ -8,7 +8,7 @@ banner:
 
     ## 8 (921) 418-25-93
 
-    ## maket.one.corp@gmail.com
+    ### maket.one.corp@gmail.com
   actions:
     - label: Наше портфолио
       url: /generic
