@@ -1,21 +1,6 @@
-social_icons:
-  - title: Twitter
-    icon: fa-twitter
-    url: '#'
-  - title: Facebook
-    icon: fa-facebook
-    url: '#'
-  - title: Instagram
-    icon: fa-instagram
-    url: '#'
-  - title: Dribbble
-    icon: fa-dribbble
-    url: '#'
-  - title: Email
-    icon: fa-envelope-o
-    url: '#'
-copyright: '&copy; Spectral'
+social_icons: []
+copyright: "&copy; Maket One"
 links:
-  - text: Made with Stackbit
-    url: 'https://www.stackbit.com'
+  - text: 2020. Производство макетов 1 к 1
+    url: https://maket.one
     new_window: true
