@@ -35,7 +35,7 @@ sections:
         icon: fa-heart-o
         style: style2
       - title: Dolor
-        icon: fa-code
+        icon: fa-rocket
         style: style3
     component: icons.html
   - type: spotlights
