@@ -7,6 +7,8 @@ banner:
     и неизменном внимании к заказчику
 
     ## 8 (921) 418-25-93
+
+    ## maket.one.corp@gmail.com
   actions:
     - label: Наше портфолио
       url: /generic
@@ -71,14 +73,10 @@ sections:
     section_id: cta
     background_style: style4
     actions:
-      - label: Activate
+      - label: Портфолио
         url: /generic
         is_scrolly: false
         is_primary: true
-      - label: Learn More
-        url: /generic
-        is_scrolly: false
-        is_primary: false
     component: cta.html
 menus:
   main:
